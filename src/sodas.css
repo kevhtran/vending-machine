@@ -1,0 +1,45 @@
+.moon {
+    height: auto;
+    width: 80px;
+    position: fixed;
+    top: 60px;
+    left: 750px;
+}
+
+.bigMoon {
+
+    height: auto;
+    width: 200px;
+}
+
+.mars {
+    height: auto;
+    width: 80px;
+    position: fixed;
+    top: 150px;
+    left: 750px;
+}
+
+.bigMars {
+
+    height: auto;
+    width: 200px;
+}
+
+.jupiter {
+    height: auto;
+    width: 80px;
+    position: fixed;
+    top: 240px;
+    left: 750px;
+}
+
+.bigJupiter {
+
+    height: auto;
+    width: 200px;
+}
+
+.NavBar a.active {
+    display: none;
+}
